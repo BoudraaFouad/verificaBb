@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-      
+    
         
         static bool trova(int[,] m)
         {
